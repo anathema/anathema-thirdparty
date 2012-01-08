@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<name>Automatic Injection Scanner Reflection</name>
 	<groupId>de.devsurf.injection.guice</groupId>
-	<artifactId>automatic-injection--scanner-reflections</artifactId>
+	<artifactId>automatic-injection-scanner-reflections</artifactId>
 	<version>0.8.8-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	<dependencies>
