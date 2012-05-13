@@ -7,4 +7,16 @@
     <artifactId>synthetica-blue-ice-addons</artifactId>
     <version>1.7.0</version>
     <packaging>jar</packaging>
+	<dependencies>
+		<dependency>
+			<groupId>javasoft</groupId>
+			<artifactId>synthetica-blue-ice</artifactId>
+			<version>2.9.5</version>
+		</dependency>
+		<dependency>
+			<groupId>javasoft</groupId>
+			<artifactId>synthetica-addons</artifactId>
+			<version>1.7.0</version>
+		</dependency>
+	</dependencies>
 </project>
